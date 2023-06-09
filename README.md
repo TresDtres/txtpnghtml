@@ -1,5 +1,5 @@
 # txtpnghtml
-Version del cocumento [en inglés](https://github.com/gurubla/txtpnghtml/blob/main/Readme_en.txt)
+Versión del documento [en inglés](https://github.com/gurubla/txtpnghtml/blob/main/Readme_en.txt)
 # Generador de HTML con imágenes y texto
 El Generador de HTML con imágenes y texto es una herramienta poderosa que te permite crear archivos HTML de forma automatizada a partir de imágenes y texto en diferentes carpetas. Este proyecto se ha desarrollado con la finalidad de facilitar la generación de contenido HTML organizado y visualmente atractivo.
 # Características principales
