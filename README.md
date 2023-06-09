@@ -9,8 +9,9 @@ El archivo HTML generado incluye un menú de navegación que te permite acceder 
 Con solo un clic, puedes copiar el texto de los archivos generados al portapapeles. También puedes realizar copias de las imágenes para utilizarlas en otras aplicaciones o convertirlas a diferentes formatos.
 
 #Integración con Stable Diffusion A1111:
-"( no implementado )Este proyecto puede ser incorporado en el código de Stable Diffusion A1111, lo que te brinda una solución completa para organizar y acceder a los archivos generados en un entorno estable y eficiente.
-
+#"( no implementado ):
+Este proyecto puede ser incorporado en el código de Stable Diffusion A1111, lo que te brinda una solución completa para organizar y acceder a los archivos generados en un entorno estable y eficiente.
+#_______________________________________________________________________________________________________________________________________________________________________________________
 Cómo utilizar el Generador de HTML con imágenes y texto
 Descarga el código fuente del proyecto.
 Configura las carpetas que contienen las imágenes y los archivos de texto.
