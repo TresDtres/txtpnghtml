@@ -8,10 +8,11 @@ El archivo HTML generado incluye un menú de navegación que te permite acceder 
 # Copia de texto e imágenes: 
 Con solo un clic, puedes copiar el texto de los archivos generados al portapapeles. También puedes realizar copias de las imágenes para utilizarlas en otras aplicaciones o convertirlas a diferentes formatos.
 
-#Integración con Stable Diffusion A1111:
-#"( no implementado ):
+# Integración con Stable Diffusion A1111: En preparación
+# "( no implementado ):
 Este proyecto puede ser incorporado en el código de Stable Diffusion A1111, lo que te brinda una solución completa para organizar y acceder a los archivos generados en un entorno estable y eficiente.
-#_______________________________________________________________________________________________________________________________________________________________________________________
+# _____________________________________________________________________________________________________________________________________________________
+
 Cómo utilizar el Generador de HTML con imágenes y texto
 Descarga el código fuente del proyecto.
 Configura las carpetas que contienen las imágenes y los archivos de texto.
@@ -24,8 +25,8 @@ Explora, copia el texto, realiza conversiones y aprovecha todas las funcionalida
 # Para implementar en un futuro
 Nota: La versión "mini" puede utilizarse de forma independiente en cualquier carpeta, mientras que la versión "txt_png_to_htmlA1111" es la versión completa diseñada para su integración en Stable Diffusion A1111.
 
-#¡Disfruta de una forma eficiente y organizada de crear y gestionar tus archivos HTML!
+# ¡Disfruta de una forma eficiente y organizada de crear y gestionar tus archivos HTML!
 
-##Contribuciones
+## Contribuciones
 ¡Las contribuciones son bienvenidas! Si deseas participar en el desarrollo de este proyecto o tienes ideas para mejorarlo, no dudes en abrir un issue o enviar una solicitud de pull request. Tu colaboración es muy valiosa y ayuda a enriquecer esta herramienta para beneficio de la comunidad.
 
